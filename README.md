@@ -1,2 +1,3 @@
 # chad-client
-skidded clean phobos but 100% better
+really cool client
+if you need source code switch the .jar file into a .zip
